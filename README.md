@@ -35,8 +35,9 @@ The dataset consists of **79 explanatory variables** that describe various aspec
    - Ensemble techniques for improved prediction accuracy
 
 ## 🚀 Results
-- Best Model: **[Insert your best model here]**
-- Root Mean Squared Error (RMSE): **0.161114**
+- Best Model: **CatBoost Regressor**
+- Root Mean Squared Error (RMSE): **0.1216142**
+- Key Features: NEW_TotalSF, OverallQual, GrLivArea, YearBuilt, Fireplaces, OverallCound
 
 ## 📌 Conclusion & Learnings
 - **Feature engineering** has a significant impact on model performance.
@@ -45,7 +46,6 @@ The dataset consists of **79 explanatory variables** that describe various aspec
 
 ## 📂 Project Details
 - **Tools**: Python, Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn, XGBoost
-- **Notebook**: [Insert link to Kaggle notebook]
 - **Author**: Hossein Izadi
 
 
