@@ -46,9 +46,6 @@ The dataset consists of **79 explanatory variables** that describe various aspec
 ## 📂 Project Details
 - **Tools**: Python, Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn, XGBoost
 - **Notebook**: [Insert link to Kaggle notebook]
-- **Author**: [Your Name]
+- **Author**: Hossein Izadi
 
----
-
-If you have any questions or suggestions for improvement, feel free to reach out! 😊
 
