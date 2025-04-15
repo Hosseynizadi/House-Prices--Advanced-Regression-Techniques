@@ -37,7 +37,9 @@ The dataset consists of **79 explanatory variables** that describe various aspec
 ## 🚀 Results
 - Best Model: **CatBoost Regressor**
 - Root Mean Squared Error (RMSE): **0.1216142**
-- Key Features: NEW_TotalSF, OverallQual, GrLivArea, YearBuilt, Fireplaces, OverallCound
+Key Features: NEW_TotalSF, OverallQual, GrLivArea, YearBuilt, Fireplaces, OverallCound
+  
+#<img width="573" alt="house_prices" src="https://github.com/user-attachments/assets/f795712a-5a29-44e5-9b6b-c93e99c8d5a2" />
 
 ## 📌 Conclusion & Learnings
 - **Feature engineering** has a significant impact on model performance.
